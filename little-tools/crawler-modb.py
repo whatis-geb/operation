@@ -19,11 +19,12 @@ b_tab = WebDriverWait(driver, 10).until(
     EC.element_to_be_clickable((By.XPATH, "/html/body/div/div/section/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/div"))
 )
 
-# Click the tab to load page B
+# 切换到 tab，这里的 tab 是文章选卡
 b_tab.click()
 time.sleep(5)  
 
 def scroll_to_bottom(driver, css_selector):
+    # 如果数据加载不出来，调大 SCROLL_PAUSE_TIME，且 SCROLL_PAUSE_TIME 数值要比下面 WebDriverWait(driver, 60) 中的数值大
     SCROLL_PAUSE_TIME = 60
 
     last_loaded_count = 0
@@ -34,7 +35,8 @@ def scroll_to_bottom(driver, css_selector):
             last_loaded_count = len(elements)
             driver.execute_script("arguments[0].scrollIntoView();", elements[-1])
             time.sleep(SCROLL_PAUSE_TIME)
-            WebDriverWait(driver, 300).until(EC.visibility_of(elements[-1]))  # Add explicit wait for the last element to be visible
+            # 如果数据加载不出来，调大下面的 60
+            WebDriverWait(driver, 60).until(EC.visibility_of(elements[-1]))  # Add explicit wait for the last element to be visible
         else:
             break
 
