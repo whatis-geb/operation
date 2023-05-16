@@ -4,6 +4,13 @@
 
 > 在开篇之前，感谢下前东家我的第一任领导 [@min.wu](https://github.com/whitewum)，没有一个好的领导给一个好方向，是很难做成事情的。如果说 NebulaGraph 的国内运营成就有十分功劳，min.wu 占八分，我占剩下两分吧。
 
+## 一些小工具
+
+由 GPT-3.5 和 GPT-4 编写的爬虫小工具：
+
+* 可爬取 discourse 论坛浏览数据 [https://github.com/whatis-geb/operation/blob/master/little-tools/scrolling-table-page.py](https://github.com/whatis-geb/operation/blob/master/little-tools/scrolling-table-page.py)
+* 可爬取墨天轮平台阅读数（精确到个位数） [https://github.com/whatis-geb/operation/blob/master/little-tools/crawler-modb.py](https://github.com/whatis-geb/operation/blob/master/little-tools/crawler-modb.py)
+
 ## 如何从零开始做 2b 运营
 
 当我三年前，面试前东家时，我只有 2c 的运营经验，我后来在前东家分发很多内容在我做 2c 的时候都以“推广”为理由判断为垃圾推广信息被隐藏过，索性的是，现在的技术平台的运营比当初的我更灵活没那么轴。
