@@ -8,7 +8,7 @@
 
 这是渲染版：省略了一些讲解内容。
 
-<img width="3280" height="1946" alt="ad29d36abf437c355511e2e0f26a0d86" src="https://github.com/user-attachments/assets/dfe7a505-4fb8-4d19-8f2a-0bbfa906845b" />
+<img width="3534" height="1932" alt="513ab2d1ad651dc7f3768b4da7af8244" src="https://github.com/user-attachments/assets/7e3c6ff3-2673-402f-b911-c6c6d5793eda" />
 
 下面这个文稿，和上面的图是一样的，上图我借由 markmap 生成了 mindmap 看过去直观点而已。
 
