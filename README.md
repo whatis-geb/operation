@@ -24,6 +24,7 @@
         * [一面](https://github.com/whatis-geb/operation/blob/master/little-money/stepfun-1.md)：没准备文稿，空聊。。不出意外，聊挂了，面试官给我留了个挽尊作业：如果让你运营一款 tts 产品。作业做得还行
         * [二面](https://github.com/whatis-geb/operation/blob/master/little-money/stepfun-2.md)
 
+你有什么想聊的，可以去 issue 区发 issue：[传送门](https://github.com/whatis-geb/operation/issues)
 
 ## 如何从零开始做 2b 运营
 
