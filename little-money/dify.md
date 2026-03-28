@@ -6,6 +6,8 @@ Dify 面了两轮，第一轮是业务负责人，第二轮是平级的其他业
 
 ## 面试准备 & 面试过程
 
+<img width="1536" height="1564" alt="image" src="https://github.com/user-attachments/assets/e0fc0e34-4489-4305-92d1-43f5ff9b4838" />
+
 这张图是面试的时候用 draw.io 画的，因为应聘的是 SaaS 运营…
 
 ### 面试复盘
