@@ -9,3 +9,4 @@
 
 这是渲染后的 mindmap，要结合一面的内容的类型来看。
 
+<img width="3280" height="1946" alt="ad29d36abf437c355511e2e0f26a0d86" src="https://github.com/user-attachments/assets/dfe7a505-4fb8-4d19-8f2a-0bbfa906845b" />
